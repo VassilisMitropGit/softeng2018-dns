@@ -1,2 +1,2 @@
 *.css linguist-detectable=false
-*.typescript linguist-detectable=false
+*.TypeScript linguist-detectable=false
